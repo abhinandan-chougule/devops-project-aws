@@ -1,1 +1,1 @@
-- Documentation is organized in Sections, the same way how videos are organized in the udemy course.
+- Documentation is organized in Sections
